@@ -30,8 +30,11 @@
   <a href="https://linkedin.com/in/1maryam-ashraf" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="25" alt="linkedin logo"  />
   </a>
-  <a href="maryamashraf386@gmail.com" target="_blank">
+  <a href="mailto:maryamashraf386@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="25" alt="gmail logo"  />
+  </a>
+   <a href="https://leetcode.com/Maryam_Ashraf/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=292D3E&style=flat" height="25" alt="leetcode logo"  />
   </a>
 </div>
 

@@ -33,6 +33,9 @@
   <a href="mailto:maryamashraf386@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="25" alt="gmail logo"  />
   </a>
+   <a href="https://codeforces.com/profile/Maryam-Ashraf" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=CodeForces&logo=codeforces&label=&color=3B82F6&logoColor=F8FAFC&labelColor=&style=flat" height="25" alt="codeforces logo"  />
+  </a>
    <a href="https://leetcode.com/Maryam_Ashraf/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=292D3E&style=flat" height="25" alt="leetcode logo"  />
   </a>
